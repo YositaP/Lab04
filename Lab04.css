@@ -1,0 +1,63 @@
+table {
+    border: 2px white solid;
+    width: 400px;
+    height: 400px;
+}
+
+
+.inner {
+    border: 40px rgb(51, 51, 51) solid;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+#s1{
+    background: white;
+    width: 145px;
+    height: 145px;
+}
+
+#s1.selected {
+    background: black;
+    width: 145px;
+    height: 145px;
+}
+
+
+#s2 {
+    background: black;
+    width: 145px;
+    height: 145px;
+}
+
+#s2.selected {
+    background: white;
+    width: 145px;
+    height: 145px;
+}
+
+#s3 {
+    background: black;
+    width: 145px;
+    height: 145px;
+}
+
+#s3.selected {
+    background: white;
+    width: 145px;
+    height: 145px;
+}
+
+#s4 {
+    background: white;
+    width: 145px;
+    height: 145px;
+}
+
+#s4.selected {
+    background: black;
+    width: 145px;
+    height: 145px;
+}

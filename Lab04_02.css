@@ -1,0 +1,36 @@
+table {
+    border: 2px white solid;
+    width: 400px;
+    height: 400px;
+}
+
+
+.inner {
+    border: 40px rgb(51, 51, 51) solid;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+#s1,#s4 {
+    background: white;
+    width: 145px;
+    height: 145px;
+}
+
+
+
+#s2,#s3 {
+    background: black;
+    width: 145px;
+    height: 145px;
+}
+
+
+
+
+
+
+
+
